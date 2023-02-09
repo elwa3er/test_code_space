@@ -1,0 +1,4 @@
+{
+    "name": "Codespaces Vue",
+    "dockerComposeFile": "docker-compose.yml"
+}

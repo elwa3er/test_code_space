@@ -1,5 +1,0 @@
-{
-    "name": "Codespaces Nest",
-    "dockerFile": "../server/Dockerfile",
-    "appPort":[8000]    
-}

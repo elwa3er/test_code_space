@@ -1,5 +1,0 @@
-{
-    "name": "Codespaces Vue",
-    "dockerFile": "../client-ui/docker/Dockerfile",
-    "appPort":[3001]    
-}
