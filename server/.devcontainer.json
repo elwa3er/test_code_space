@@ -1,0 +1,12 @@
+{
+  "name": "Container server",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "server-dev",
+  "shutdownAction": "none",
+  "extensions": ["dbaeumer.vscode-eslint","Prisma.prisma","steoates.autoimport","amodio.tsl-problem-matcher","xabikos.JavaScriptSnippets","wayou.vscode-todo-highlight",
+    "eamodio.tsl-problem-matcher","zardoy.ts-essential-plugins","caponetto.vscode-diff-viewer","formulahendry.auto-close-tag","rvest.vs-code-prettier-eslint",
+    "ms-vscode.vscode-typescript-next","k--kato.intellij-idea-keybindings","ms-azuretools.vscode-docker@1.22.2","redwan-hossain.auto-rename-tag-clone",
+                 "pilotkid.lodash-import-what-you-need","streetsidesoftware.code-spell-checker","tombonnike.vscode-status-bar-format-toggle","johnsoncodehk.vscode-typescript-vue-plugin",
+                 "streetsidesoftware.code-spell-checker-spanish"],
+  "workspaceFolder": "/workspaces/test_code_space/server"
+}
